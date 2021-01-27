@@ -1,3 +1,17 @@
 Hi man2
 
+<<<<<<< Updated upstream
 mati tu wariuje
+=======
+mati tu wariuje
+
+kalejna zmiana wariata
+
+stash
+
+
+pechowa zmiana 
+
+>>>>>>> Stashed changes
+
+
